@@ -3,13 +3,13 @@ Custom surface impact particle effects
 
 Author: Gokmen 'the0utsider'
 
-Using NWI's iconic game 'insurgency' sound samples, this add-on created to improve overall experience and bring dynamism to expressionless Arma3 models. I always imagined this to be something similar to st_hud but an aural one instead of visual. Each faction has their own sounds, with samples played on certain actions to increase situational awareness, to simulate better close quarters combat.
+Bullet impact particle effects with global lighting for A3.
 
 **Features:**
 - Brand new particle effects
 - Applied only for metal surfaces (vehicle, metal shack, unit weapon, anything defined with metal surface)
 - 3 different profiles for flexible performance 
-- Profiles are changed via ingame "Particles" option in Video Settings 
+- Profile can be switched via ingame "Particles" option in Video Settings 
 - High will spawn more dense, longer lifetime particles
 - Normal is ideal setting for visual and performance
 - Low will spawn simplier particle fx
